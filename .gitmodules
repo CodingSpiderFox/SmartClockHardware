@@ -1,3 +1,6 @@
-[submodule "sharedLibs/kicad-ESP8266"]
-	path = sharedLibs/kicad-ESP8266
-	url = https://github.com/jdunmire/kicad-ESP8266
+[submodule "SmartClockHardware_LightUnit"]
+	path = SmartClockHardware_LightUnit
+	url = https://github.com/CodingSpiderFox/SmartClockHardware_LightUnit
+[submodule "SmartClockHardware_ControlUnit"]
+	path = SmartClockHardware_ControlUnit
+	url = https://github.com/CodingSpiderFox/SmartClockHardware_ControlUnit
